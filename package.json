@@ -1,0 +1,22 @@
+{
+  "name": "skilllz",
+  "version": "1.0.0",
+  "description": "A simple HTML/CSS webpage using CSS Grid and Flexbox layout techniques",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/christopherallanperry/Skilllz.git"
+  },
+  "author": "Kingsley Ubah",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/christopherallanperry/Skilllz/issues"
+  },
+  "homepage": "https://github.com/christopherallanperry/Skilllz#readme",
+  "devDependencies": {
+    "axe-core": "^4.3.3"
+  }
+}
